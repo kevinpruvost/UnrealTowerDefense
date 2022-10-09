@@ -1,0 +1,3 @@
+Content/Fantastic_Village_Pack/maps/map_village_day_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Fantastic_Village_Pack/maps/map_village_night_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Fantastic_Village_Pack/maps/map_village_overview_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
